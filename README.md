@@ -1,2 +1,2 @@
-# excercize-1
+# excercize_1
 Excercize for DSA
